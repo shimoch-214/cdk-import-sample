@@ -8,7 +8,7 @@ applications:
             - pnpm install
         build:
           commands:
-            - pnpm run build
+            - pnpm build:frontend
       artifacts:
         baseDirectory: apps/sample-app/dist
         files:
