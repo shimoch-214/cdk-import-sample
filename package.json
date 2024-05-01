@@ -1,0 +1,20 @@
+{
+  "name": "cdk-import-sample",
+  "version": "1.0.0",
+  "description": "手動で作成した amplify app を cdk import してみる試み",
+  "main": "index.js",
+  "engines": {
+    "pnpm": "9.0.6",
+    "npm": "please_use_pnpm_instead"
+  },
+  "packageManager": "pnpm@9.0.6",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@biomejs/biome": "1.7.2"
+  }
+}
